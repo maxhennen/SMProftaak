@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "317950932344",
+    "firebase_url": "https://proftaakdermatofology.firebaseio.com",
+    "project_id": "proftaakdermatofology",
+    "storage_bucket": "proftaakdermatofology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317950932344:android:4ffb187ec2afdd88",
+        "android_client_info": {
+          "package_name": "com.example.vider_proftaak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317950932344-rn9ussjui6alscdce0oddc08jal6mjj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vider_proftaak",
+            "certificate_hash": "99b8e49b43a01f8447f0420436c908e4dd861991"
+          }
+        },
+        {
+          "client_id": "317950932344-164tmk8fav7gg7fkep0c9165ibb7lmfi.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "317950932344-164tmk8fav7gg7fkep0c9165ibb7lmfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPff0Ka0JhD0zLDv16YE8gLolw3d8ddZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317950932344-164tmk8fav7gg7fkep0c9165ibb7lmfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

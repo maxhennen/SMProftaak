@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Vider_Proftaak</string>
+    <string name="app_name">Vider</string>
+    <string name="login_failed">Helaas het is mislukt om in te loggen!</string>
 </resources>
