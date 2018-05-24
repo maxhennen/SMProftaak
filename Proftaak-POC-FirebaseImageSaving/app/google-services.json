@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "786396100251",
+    "firebase_url": "https://proftaak-poc.firebaseio.com",
+    "project_id": "proftaak-poc",
+    "storage_bucket": "proftaak-poc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786396100251:android:8f09ff9aeb97b270",
+        "android_client_info": {
+          "package_name": "com.example.pocimagesaving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786396100251-c1a0geslnrtbe04rd5ppngvm6c2i0815.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pocimagesaving",
+            "certificate_hash": "847b186a4e7401edb515c0dd5da281f7e3c486a2"
+          }
+        },
+        {
+          "client_id": "786396100251-klfonq36i276gfignk8cioof16f2d1au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCznraPiGZBqNp2n_FNbPJkSvjTmDcVJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786396100251-klfonq36i276gfignk8cioof16f2d1au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
